@@ -16,7 +16,6 @@ NodeJS
 (I used v12.16.3)
 
 ## Information
-Created using DiscordJS and GameDig
-https://www.npmjs.com/package/gamedig
+Created using [DiscordJS](https://github.com/discordjs/discord.js/) and [GameDig](https://www.npmjs.com/package/gamedig)
 
 Tested using Garry's Mod.
