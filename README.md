@@ -6,13 +6,13 @@ Download and extract the achrive.
 ```
 npm install
 ```
-configure config.js
+Configure config.js
 ```
 node bot.js
 ```
 
 ## Requirements
-NodeJS
+NodeJS\
 (I used v12.16.3)
 
 ## Information
