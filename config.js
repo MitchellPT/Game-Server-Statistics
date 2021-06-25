@@ -12,7 +12,6 @@ config.token = ""; // Discord bot token
 // %map% = Map of the server
 // %name% = display name of the server
 
-
 config.servers = [
     {   
         gametype: "garrysmod",
