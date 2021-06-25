@@ -2,8 +2,8 @@
  Game Server Statistics for Discord.
  
 ## Installation
-```sh
 Download and extract the achrive.
+```
 npm install
 ```
 configure config.js
