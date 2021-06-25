@@ -13,7 +13,8 @@ node bot.js
 
 ## Requirements
 NodeJS\
-(I used v12.16.3)
+(I used v12.16.3)\
+Make sure your bot has permisions to edit the channel names!
 
 ## Information
 Created using [DiscordJS](https://github.com/discordjs/discord.js/) and [GameDig](https://www.npmjs.com/package/gamedig)
