@@ -1,0 +1,24 @@
+{
+  "name": "game-server-statistics",
+  "version": "1.0.0",
+  "description": "Game Server Statistics for Discord.",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "gamedig": "^3.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MitchellPT/Game-Server-Statistics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MitchellPT/Game-Server-Statistics/issues"
+  },
+  "homepage": "https://github.com/MitchellPT/Game-Server-Statistics#readme"
+}
