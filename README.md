@@ -1,4 +1,4 @@
-# Game Server Statistics
+# Game Server monitor
 Pull game server stats and display them in your discord server via a bot.
  
 ## Installation
