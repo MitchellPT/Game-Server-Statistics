@@ -1,5 +1,5 @@
 # Game Server Statistics
- Game Server Statistics for Discord.
+Pull game server stats and display them in your discord server via a bot.
  
 ## Installation
 Download and extract the achrive.
